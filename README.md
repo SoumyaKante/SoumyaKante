@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm SoumyaKante</h1>
+<h3 align="center">An Aspiring DevOps Engineer</h3>
+
 - 🌱 I’m currently learning **Ansible, Shell Scripting, Python**
 
 - 👯 I’m looking to collaborate on **DevOps**
 
-- 📫 How to reach me **soumyakante009@gmail.com**
+- 💬 Ask me about **AWS & DevOps**
+
+- 📫 How to reach me **soumyakante009@gmail.com, www.linkedin.com/in/ soumyakante12**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
