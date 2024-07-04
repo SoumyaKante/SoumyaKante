@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SoumyaKante</h1>
 <h3 align="center">A Passionate DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **Ansible, Shell Scripting, Python**
+- 🌱 I’m currently learning **Ansible, Python**
 
 - 👯 I’m looking to collaborate on **DevOps**
 
